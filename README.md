@@ -1,6 +1,8 @@
 # Malaria-Computer-Vision-Problem---CNN-Keras
 Solving Computer Vision problem with National Library of Medicine dataset containing images of malaria infected/uninfected sets
 
+https://lhncbc.nlm.nih.gov/publication/pub9932
+
 ORIGINAL DATA SOURCE:
 
 The dataset contains 2 folders - Infected - Uninfected
